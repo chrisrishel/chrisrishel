@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chris Rishel. I am an anesthesiologist at Stanford. I'm the Editor-in-Chief and Chief Techical Officer for [WikiAnesthesia](https://wikianesthesia.org/).
+I'm Chris Rishel. I am a neuroanesthesiologist at Stanford, and the Editor-in-Chief and Chief Techical Officer for [WikiAnesthesia](https://wikianesthesia.org/).
 <!--
 **chrisrishel/chrisrishel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
